@@ -1,0 +1,15 @@
+.nav {
+  grid-area: n;
+  background-color: #70c4db;
+  padding: 20px;
+ }
+ .item a{
+   color: rgb(15, 15, 15);
+   text-decoration: none;
+ }
+ .item a.activeLink {
+   color: gold;
+ }
+ .fiends {
+   padding: 50px;
+ }
